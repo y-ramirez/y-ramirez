@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1> 👋 Hi there </h1>
+
 
 <!--
 **y-ramirez/y-ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>🔭 Software Development Projects</h2>
+
+- <b>Password Generator</b>
+- <b>Quiz Game (Spanish)</b>
+- <b>Project Euler problems practice</b>
+- <b>Laser Cavity Simulator</b>
+- <b>Random Number Generator</b>
