@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - <b>Password Generator</b>
   - [Desktop App built with Xojo that generates a string of random characters](https://github.com/y-ramirez/pas-gen)
+- <b>QR code Generator ?</b>
+  - [Desktop App built with Xojo that creates a QR code using binary data format](https://github.com/y-ramirez/qr-code)
 - <b>Quiz Game (Spanish)</b>
   - [Practice with C by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/Quiz)
 
