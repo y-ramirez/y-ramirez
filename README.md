@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 - <h3>🧰 Miscellaneous </h3>
 
-  - <b>Inital Conditions Generator (Spanish) ? </b>
   - <b>Vibrational modes of oxygen using the BWS approximation (Spanish) </b>
       - [Lennard-Jones Potential](https://github.com/y-ramirez/Molecular-Vibrations)
 
