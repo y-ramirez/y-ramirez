@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - <b>Laser Cavity Simulator</b>
 - <b>Inital Conditions Generator (Spanish) ? </b>
 - <b>Electromagnetic Pulse Propgation (Spanish) </b>
-- <b>Vibrational modes using BWS approximation (Spanish) </b>
+- <b>Vibrational modes of oxygen using the BWS approximation (Spanish) </b>
 
