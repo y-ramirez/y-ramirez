@@ -12,23 +12,34 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 <h2>🔭 Software Development Projects</h2>
 
 - <b>Password Generator</b>
+  - [Desktop App](https://github.com/y-ramirez/pas-gen)
 - <b>Quiz Game (Spanish)</b>
 
 <h2>💻 Computing Exercises</h2>
 
-- <b>Project Euler problems practice</b>
+- <b>Project Euler Problems Practice</b>
+  - [Practicing Computing and Math Solving Skills](https://github.com/y-ramirez/eulerproject)
+- <b></b>
 
 <h2>🍎 Physics Oriented Projects</h2>
 
-- <b>Laser Cavity Simulator</b>
-- <b>Inital Conditions Generator (Spanish) ? </b>
-- <b>Electromagnetic Pulse Propgation (Spanish) </b>
-- <b>Vibrational modes of oxygen using the BWS approximation (Spanish) </b>
+- <h3>💡 Electromagnetism </h3>
+
+  - <b>Laser Cavity Simulator</b>
+    - [TBD]()
+  - <b>Electromagnetic Pulse Propgation (Spanish) </b>
+    - [Absorbing boundaries and perfect electric and magnetic conductor boundaries](https://github.com/y-ramirez/EM-Pulse-Propagation)
+
+- <h3>🧰 Miscellaneous </h3>
+
+  - <b>Inital Conditions Generator (Spanish) ? </b>
+  - <b>Vibrational modes of oxygen using the BWS approximation (Spanish) </b>
+      - [Lennard-Jones Potential](https://github.com/y-ramirez/Molecular-Vibrations)
+
 
