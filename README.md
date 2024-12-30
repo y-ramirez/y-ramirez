@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 - <b>Password Generator</b>
   - [Desktop App](https://github.com/y-ramirez/pas-gen)
 - <b>Quiz Game (Spanish)</b>
+  - [Practice with C by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/Quiz)
 
 <h2>💻 Computing Exercises</h2>
 
 - <b>Project Euler Problems Practice</b>
-  - [Practicing Computing and Math Solving Skills](https://github.com/y-ramirez/eulerproject)
+  - [Practicing Computing and Math Solving Skills using Python](https://github.com/y-ramirez/eulerproject)
 - <b>Mandelbrot Set Simulation</b>
   - [Visual convergence of the Mandelbrot Set](https://github.com/y-ramirez/mandelbrot-set)
   
