@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>🔭 Software Development Projects</h2>
 
 - <b>Password Generator</b>
-  - [Desktop App](https://github.com/y-ramirez/pas-gen)
+  - [Desktop App built with Xojo that generates a string of random characters](https://github.com/y-ramirez/pas-gen)
 - <b>Quiz Game (Spanish)</b>
   - [Practice with C by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/Quiz)
 
