@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 - <b>Password Generator</b>
 - <b>Quiz Game (Spanish)</b>
+
+<h2>💻 Computing Exercises</h2>
+
 - <b>Project Euler problems practice</b>
+
+<h2>🍎 Physics Oriented Projects</h2>
+
 - <b>Laser Cavity Simulator</b>
-- <b>Random Number Generator</b>
+- <b>Inital Conditions Generator (Spanish) ? </b>
