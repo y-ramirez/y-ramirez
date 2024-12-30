@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 - <b>Project Euler Problems Practice</b>
   - [Practicing Computing and Math Solving Skills](https://github.com/y-ramirez/eulerproject)
-- <b></b>
-
+- <b>Mandelbrot Set Simulation</b>
+  - [Visual convergence of the Mandelbrot Set](https://github.com/y-ramirez/mandelbrot-set)
+  
 <h2>🍎 Physics Oriented Projects</h2>
 
 - <h3>💡 Electromagnetism </h3>
