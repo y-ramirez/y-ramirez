@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 - <b>Laser Cavity Simulator</b>
 - <b>Inital Conditions Generator (Spanish) ? </b>
+- <b>Electromagnetic Pulse Propgation (Spanish) </b>
