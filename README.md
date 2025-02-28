@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   - [Desktop App built with Xojo that generates a string of random characters](https://github.com/y-ramirez/pas-gen)
 - <b>QR code Generator ?</b>
   - [Desktop App built with Xojo that creates a QR code using binary data format](https://github.com/y-ramirez/qr-code)
-- <b>Quiz Game (Spanish)</b>
+- <b>Quiz Game</b>
   - (Spanish) [Practice with C by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/Quiz)
-  - (English) [Practice with python by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/quizGame)
+  - (English) [Practice with tkinter/Python by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/quizGame)
 
 <h2>💻 Computing Exercises</h2>
 
