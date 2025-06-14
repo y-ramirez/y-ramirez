@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <h2>🔭 Software Development Projects</h2>
-
+-<h3>Xojo Practive</h3>
 - <b>Password Generator</b>
   - [Desktop App built with Xojo that generates a string of random characters](https://github.com/y-ramirez/pas-gen)
 - <b>QR code Generator ?</b>
   - [Desktop App built with Xojo that creates a QR code using binary data format](https://github.com/y-ramirez/qr-code)
 - <b>Quiz Game</b>
   - (Spanish) [Practice with C by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/Quiz)
+-<h3>Python Practive</h3>
   - (English) [Practice with tkinter/Python by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/quizGame)
+  - (English) [Practice with tkinter/Python by creating a "Pokedex"](https://github.com/y-ramirez/pokedex)
 
 <h2>💻 Computing Exercises</h2>
 
