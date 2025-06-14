@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>🔭 Software Development Projects</h2>
+
 -<h3>Xojo Practive</h3>
 - <b>Password Generator</b>
   - [Desktop App built with Xojo that generates a string of random characters](https://github.com/y-ramirez/pas-gen)
