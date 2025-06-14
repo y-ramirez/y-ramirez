@@ -1,5 +1,5 @@
 <h1> 👋 Hi there </h1>
-
+Adding projects here because my 10+ year old computer memory is almost full.
 
 <!--
 **y-ramirez/y-ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,39 +14,48 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2>🔭 Software Development Projects</h2>
 
-<h3>Xojo Practive</h3>
-- <b>Password Generator</b>
+<h3> 🐊 Xojo Practice</h3>
+<b>Password Generator</b>
+
   - [Desktop App built with Xojo that generates a string of random characters](https://github.com/y-ramirez/pas-gen)
-- <b>QR code Generator ?</b>
+
+<b>QR code Generator ?</b>
   - [Desktop App built with Xojo that creates a QR code using binary data format](https://github.com/y-ramirez/qr-code)
-- <b>Quiz Game</b>
+
+<h3> 🐈‍⬛ C Practice</h3>
+<b>Quiz Game</b>
+
   - (Spanish) [Practice with C by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/Quiz)
--<h3>Python Practive</h3>
-  - (English) [Practice with tkinter/Python by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/quizGame)
-  - (English) [Practice with tkinter/Python by creating a "Pokedex"](https://github.com/y-ramirez/pokedex)
+
+<h3> 🐍 Python Practice</h3>
+<b>Front-End Practice Projects</b>
+
+  - [Practice with tkinter/Python by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/quizGame)
+  - [Practice with tkinter/Python by creating a "Pokedex"](https://github.com/y-ramirez/pokedex)
+  
 
 <h2>💻 Computing Exercises</h2>
+<b>Project Euler Problems Practice</b>
 
-- <b>Project Euler Problems Practice</b>
   - [Practicing Computing and Math Solving Skills using Python](https://github.com/y-ramirez/eulerproject)
-- <b>Mandelbrot Set Simulation</b>
+
+<b>Mandelbrot Set Simulation</b>
   - [Visual convergence of the Mandelbrot Set](https://github.com/y-ramirez/mandelbrot-set)
-  
+
+
 <h2>🍎 Physics Oriented Projects</h2>
+<h3>💡 Electromagnetism </h3>
+<b>Laser Cavity Simulator</b>
 
-- <h3>💡 Electromagnetism </h3>
+  - [Thesis Project Laser Simulator by implementing ABCD matrix formalism](https://github.com/y-ramirez/laser-cavity-simulator)
 
-  - <b>Laser Cavity Simulator</b>
-    - [TBD]()
-  - <b>Electromagnetic Pulse Propgation (Spanish) </b>
-    - [Absorbing boundaries and perfect electric and magnetic conductor boundaries](https://github.com/y-ramirez/EM-Pulse-Propagation)
+<b>Electromagnetic Pulse Propgation (Spanish) </b>
+  - [Absorbing boundaries and perfect electric and magnetic conductor boundaries](https://github.com/y-ramirez/EM-Pulse-Propagation)
 
-- <h3>🧰 Miscellaneous </h3>
+<h3>🧰 Miscellaneous </h3>
+<b>Vibrational modes of oxygen using the BWS approximation (Spanish) </b>
 
-  - <b>Vibrational modes of oxygen using the BWS approximation (Spanish) </b>
-      - [Lennard-Jones Potential](https://github.com/y-ramirez/Molecular-Vibrations)
-
+  - [Lennard-Jones Potential](https://github.com/y-ramirez/Molecular-Vibrations)
 
