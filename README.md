@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
   - [Practice with tkinter/Python by creating a "How to be Millionaire?" type of game](https://github.com/y-ramirez/quizGame)
   - [Practice with tkinter/Python by creating a "Pokedex"](https://github.com/y-ramirez/pokedex)
+  - [Rules of Life simulator](https://github.com/y-ramirez/rulesOfLife)
   
 
 <h2>💻 Computing Exercises</h2>
