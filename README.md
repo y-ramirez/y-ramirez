@@ -1,5 +1,4 @@
-<h1> 👋 Hi there </h1>
-Adding projects here because my 10+ year old computer memory is almost full.
+<h1> Personal Projects </h1>
 
 <!--
 **y-ramirez/y-ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
