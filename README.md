@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
   - [Thesis Project Laser Simulator by implementing ABCD matrix formalism](https://github.com/y-ramirez/laser-cavity-simulator)
 
-<b>Electromagnetic Pulse Propgation (Spanish) </b>
+<b>Electromagnetic Pulse Propagation (Spanish) </b>
   - [Absorbing boundaries and perfect electric and magnetic conductor boundaries](https://github.com/y-ramirez/EM-Pulse-Propagation)
 
 <h3>🧰 Miscellaneous </h3>
