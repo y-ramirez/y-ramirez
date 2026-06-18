@@ -42,6 +42,3 @@ Here are some ideas to get you started:
 [Practice with tkinter/Python by creating a "Pokedex"](https://github.com/y-ramirez/pokedex)
 
 [Rules of Life simulator](https://github.com/y-ramirez/rulesOfLife)
-
-[![License: MIT](https://shields.io)](https://opensource.org)
-
