@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 
 [Rules of Life simulator](https://github.com/y-ramirez/rulesOfLife)
 
+[![License: MIT](https://shields.io)](https://opensource.org)
+
