@@ -1,4 +1,4 @@
-Interested in physics, software, mathematical methods, simulations, data analysis and algorithms. Currently spending time coding to keep on keeping on.
+Programming enthusiast. Interested in physics, software, mathematical methods, simulations, data analysis and algorithms. Currently spending time coding to keep on keeping on.
 
 <!--
 **y-ramirez/y-ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
