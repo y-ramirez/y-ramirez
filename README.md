@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ## Computing Exercises
-[Practicing Computing and Math Solving Skills using Python](https://github.com/y-ramirez/eulerproject)
+[Euler Project Problems](https://github.com/y-ramirez/eulerproject)
 
 [Visual convergence of the Mandelbrot Set](https://github.com/y-ramirez/mandelbrot-set)
 
