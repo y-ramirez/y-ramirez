@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Software Development
 
-[Local Website Template to Stream Movies-Series](https://https://github.com/y-ramirez/digital-library)
+[Local Website Template to Stream Movies-Series](https://github.com/y-ramirez/digital-library)
 
 ## Computing Exercises
 [Euler Project Problems](https://github.com/y-ramirez/eulerproject)
